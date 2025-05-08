@@ -40,7 +40,7 @@ Navigate to the project directory:
 cd college-complain-box
 Install dependencies:
 
-npm install
+>npm install
 
 Set up Supabase credentials:
 
@@ -52,7 +52,7 @@ Make sure to replace your_supabase_url and your_supabase_key with your actual Su
 
 Start the development server:
 
-npm run dev
+>npm run dev
 The app will run locally at http://localhost:3000.
 
 Usage 🖥️
