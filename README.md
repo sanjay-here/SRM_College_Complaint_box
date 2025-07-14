@@ -23,8 +23,6 @@ The **SRM College Complain Box** is a **React.js**-based web application designe
 
 - **Frontend**: React.js
 - **Backend**: Supabase (for database and authentication)
-- **UI Components**: Material-UI (optional, if used for styling)
-- **Deployment**: Netlify/Vercel (optional, based on hosting preferences)
 
 ## Installation 🛠️
 
